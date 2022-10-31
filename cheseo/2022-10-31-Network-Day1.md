@@ -3,9 +3,9 @@
 
 ## 키워드
 1. 네트워크 구조
+2. Packet delay
 
 ### 1. 네트워크 구조
-### 2. packet delay
 
 #### network edge
 네트워크 가장자리, 수많은 end system이 존재.
